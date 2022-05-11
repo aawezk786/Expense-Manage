@@ -24,6 +24,10 @@ Get All Transaction
 
 Get All User Transaction
 
-For Futher Info Related To Apis Refer Postman Collection
+
+
+
+
+# Note : For Futher Info Related To Apis Refer Postman Collection
 
 THANKYOU
