@@ -1,0 +1,11 @@
+const ErrorT = require("../errors/Error");
+
+const validate = async (validationSchema, data) => {
+  const validatedData = await validationSchema.validate(data).catch((err) => {
+    throw new ErrorT(400, err.errors?.[0]);
+  });
+
+  return validatedData;
+};
+
+module.exports = validate;
