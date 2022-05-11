@@ -1,4 +1,4 @@
-# postmanCollection
+# PostmanCollection
 
 https://www.getpostman.com/collections/8e5b6a954d42ff438e77
 
@@ -23,3 +23,7 @@ Create Transaction(payer_id,expense_type,amount,payee)
 Get All Transaction
 
 Get All User Transaction
+
+For Futher Info Related To Apis Refer Postman Collection
+
+THANKYOU
